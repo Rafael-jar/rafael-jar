@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael,I am 16 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However I hope I can help people with my projects.   
+I am Rafael,I am 16 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help people with my projects.   
 
 ### ⚒ The minecraft server project:
 
