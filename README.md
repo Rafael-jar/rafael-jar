@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael and I love programming. I have 16 years old and I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However I hope I can help people with my projects.   
+I am Rafael,I am 16 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However I hope I can help people with my projects.   
 
 ### ⚒ The minecraft server project:
 
@@ -20,19 +20,3 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 - PHP laravel
 - React.js
 - ( minecraft forge )
-
-
-<!--
-**raffon-jar/raffon-jar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
