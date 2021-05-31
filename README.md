@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael,I am 16 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help people with my projects.   
+I am Rafael, I am 16 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help people with my projects.   
 
 ### ⚒ The minecraft server project:
 
@@ -9,7 +9,7 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 ### 💎 The websites I made:
 - [Teska Skateboards](https://teskaskateboard.site) (It is a webshop for a company selling skateboards and t-shirts)
 - [Pupils' Committee of EEB3](https://eebtech.eu/cde) (I made the pupils' committee website of my school)
-- [Clocks](https://eebtech.eu/clocks) (A small system used to create clocks for exams in my school. The timers are synchro between the computers)
+- [Clocks](https://eebtech.eu/clock) (A small system used to create clocks for exams in my school. The timers are synchro between the computers)
 - [Geography project](https://eebtech.eu/geo) (I tried to do some things with scrollmagic and three.js but I know the result is not incredible 😅)
 
 ### 🔭 I’m currently working on:
