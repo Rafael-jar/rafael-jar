@@ -19,4 +19,4 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 ### 🌱 I’m currently learning:
 - PHP laravel
 - React.js
-- ( minecraft forge )
+- Minecraft Forge and Bukkit
