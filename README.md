@@ -13,7 +13,7 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 - [Geography project](https://eebtech.eu/geo) (I tried to do some things with scrollmagic and three.js but I know the result is not incredible 😅)
 
 ### 🔭 I’m currently working on:
-- [Inventory Managager](https://github.com/raffon-jar/InventoryManager)
+- [Inventory Manager](https://github.com/raffon-jar/InventoryManager)
 - A super webshop laravel pack
 
 ### 🌱 I’m currently learning:
