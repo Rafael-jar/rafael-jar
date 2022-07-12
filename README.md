@@ -10,7 +10,6 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 - [Teska Skateboards](https://teskaskateboard.site) (It is a webshop for a company selling skateboards and t-shirts)
 - [Pupils' Committee of EEB3](https://eebtech.eu/cde) (I made the pupils' committee website of my school)
 - [Clocks](https://eebtech.eu/clock) (A small system used to create clocks for exams in my school. The timers are synchro between the computers)
-- [Geography project](https://eebtech.eu/geo) (I tried to do some things with scrollmagic and three.js but I know the result is not incredible 😅)
 
 ### 🔭 I’m currently working on:
 - [Inventory Manager](https://github.com/raffon-jar/InventoryManager)
