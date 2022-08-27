@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael, I am 17 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help with my projects.   
+I am Rafael, I am 18 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help with my projects.   
 
 ### ⚒ The minecraft server project:
 
@@ -13,12 +13,12 @@ We worked with some friends on a minecraft server. I made the [Moderation Plugin
 - [Bal Du Bac 2022](https://eebtech.eu/bdb) (A small website created to manage the sales of the anual bal of our school)
 
 ### 🔭 I’m currently working on:
-- [Inventory Manager](https://github.com/raffon-jar/InventoryManager)
-- A super webshop laravel pack
+- Some minecraft plugins
+- A simple MVC php framework for my future websites
+- Mini python scripts for windows
 
 ### 🌱 I’m currently learning:
-- PHP laravel
+- PHP Laravel
 - React.js
-- Minecraft Forge and Bukkit
 
 Professional email: [silvamendesrafael@yahoo.com](mailto:silvamendesrafael@yahoo.com)
