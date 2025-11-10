@@ -1,23 +1,40 @@
-### Hi there 👋
+# Rafael Palma Santos 
 
-I am Rafael, I am 21 years old and I love programming. I started programming at 12. In my github you will probably find my non-organised projects so excuse me for that 😅. However,  I hope I can help with my projects.   
+> Aspiring AI Researcher with a focus on Optimization and Probabilistic Models. 
 
-### ⚒ The minecraft server project:
+Hi there! I'm a Master's student in Computer Science at the Ecole polytechnique de Bruxelles. I am passionate about applying a strong mathematical background to complex Machine Learning challenges.
 
-We worked with some friends on a minecraft server. I made the [Moderation Plugin](https://github.com/raffon-jar/InventoryManager), the [Pitchout Plugin](https://github.com/raffon-jar/pitchout) ( You have a knockback stick and you need to push people off the platform ), the [Arena Plugin](https://github.com/raffon-jar/arena) ( FFA ) and with a friend we made the [Survival Plugin](https://github.com/raffon-jar/survie) ( A survival a bit like the city of the elements made by siphano )
+---
 
-### 💎 The websites I made:
-- [Teska Skateboards](https://rafael-jar.github.io/Teska) (It is a webshop for a company selling skateboards and t-shirts)
-- [Pupils' Committee of EEB3](https://rafael-jar.github.io/cde) (I made the pupils' committee website of my school)
-- [Bal Du Bac 2022](https://rafael-jar.github.io/bdb) (A small website created to manage the sales of the anual bal of our school)
+### 🔭 I'm Currently Working On
 
-### 🔭 I’m currently working on:
-- Some minecraft plugins
-- A simple MVC php framework for my future websites
-- Mini python scripts for windows
+* **Graph-Based Analysis of PROMETHEE II Matrices:** As part of my master's research, I am developing a project in Multi-Criteria Decision Aiding (MCDA). I'm implementing a Depth-First Search (DFS) algorithm to analyze preference graphs to extract ranking information and identify inconsistencies (cycles).
 
-### 🌱 I’m currently learning:
-- PHP Laravel
-- React.js
+### 🚀 Pinned Projects
 
-Professional email: [silvamendesrafael@yahoo.com](mailto:silvamendesrafael@yahoo.com)
+* **[Metaheuristic Optimization for Fair Tournament Scheduling](https://github.com/rafael-jar/Tournament-Scheduling-Metaheuristics)**
+    * Designed and benchmarked Simulated Annealing (SA) and Genetic Algorithms (GA) to find near-optimal solutions for this NP-hard problem.
+    * Conducted a comparative analysis of these metaheuristics against exact Linear Programming methods based on solution quality and computational efficiency.
+
+---
+
+### 🛠️ My Technical Stack
+
+* **Programming:** Python (proficient), C++, Java 
+* **ML & Data:** PyTorch, Scikit-learn, NumPy, Pandas 
+* **OR & Math:** PuLP, Matlab 
+* **Coursework:** Operations Research, Algorithmic & Data Structures, Probability & Statistics, Quantum Information
+
+---
+
+### 📫 How to Reach Me
+
+* **Email:** silvamendesrafael@ik.me
+* **LinkedIn:** [in/rafael-silva-mendes-682004-](https://www.linkedin.com/in/rafael-silva-mendes-682004-)
+
+---
+
+### 🕹️ Legacy & Hobby Projects
+*As I've been coding since I was 12, this section includes some of my earlier hobbyist work.*
+* **Minecraft Plugins:** [Moderation Plugin](https://github.com/raffon-jar/InventoryManager), [Arena Plugin](https://github.com/raffon-jar/arena), etc.
+* **Web Projects:** [Teska Skateboards](https://rafael-jar.github.io/Teska), [Pupils' Committee Website](https://rafael-jar.github.io/cde), etc.
