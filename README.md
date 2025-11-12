@@ -44,4 +44,4 @@ Hi there! I'm a Master's student in Computer Science at the Ecole polytechnique 
 ### 🕹️ Legacy & Hobby Projects
 *As I've been coding since I was 12, this section includes some of my earlier hobbyist work.*
 * **Minecraft Plugins:** [Moderation Plugin](https://github.com/raffon-jar/InventoryManager), [Arena Plugin](https://github.com/raffon-jar/arena), etc.
-* **Web Projects:** [Teska Skateboards](https://rafael-jar.github.io/Teska), [Pupils' Committee Website](https://rafael-jar.github.io/cde), etc.
+* **Web Projects:** [Les Art Maniacs E-shop](https://lesartmaniacs.be/), [Teska Skateboards](https://rafael-jar.github.io/Teska), [Pupils' Committee Website](https://rafael-jar.github.io/cde), etc.
