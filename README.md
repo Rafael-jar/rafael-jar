@@ -10,6 +10,8 @@ Hi there! I'm a Master's student in Computer Science at the Ecole polytechnique 
 
 * **Graph-Based Analysis of PROMETHEE II Matrices:** As part of my master's research, I am developing a project in Multi-Criteria Decision Aiding (MCDA). I'm implementing a Depth-First Search (DFS) algorithm to analyze preference graphs to extract ranking information and identify inconsistencies (cycles).
 
+* **Medical Image Processing Pipeline:** Developing a robust, computationally efficient data-processing pipeline designed to handle and parse complex medical imaging formats (DICOM, NIFTI). This project involves implementing and optimizing medical image registration algorithms, with a dedicated focus on performance and resource utilization. Furthermore, I created specialized scripts to process images and extract quantitative data, including histograms and spatial properties, enabling rigorous formal analysis of the imaging metrics.
+
 ### 🚀 Pinned Projects
 
 * **[Metaheuristic Optimization for Fair Tournament Scheduling](https://github.com/rafael-jar/Tournament-Scheduling-Metaheuristics)**
